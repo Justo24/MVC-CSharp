@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\MVC-Study.props" />
+  <Import Project="../build/MVC-Study.props" />
 </Project>

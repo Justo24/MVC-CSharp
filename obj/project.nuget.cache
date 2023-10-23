@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bkN1Duf/1GAYJnxSug+INhr/io9c3j8f4yILp5cDQY4nh40CIcFPGhMEVMXWPyhXXHVm6ffGn555uV9qj/0/gw==",
+  "dgSpecHash": "jRhUlHVWTEZWhtUR9r0U7d8rb5sNC/zQjenx5VjfSpgGBgE83oj8vnu/qIiC5wClyHyiQMf4syS3wvoCAcBprA==",
   "success": true,
-  "projectFilePath": "D:\\repos\\studies\\MVC-Study\\MVC-Study.csproj",
+  "projectFilePath": "/home/k/projects/MVC-CSharp/MVC-Study.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
